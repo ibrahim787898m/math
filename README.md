@@ -20,6 +20,7 @@ math/
 ├── README.md
 └── discrete_math/
     └── NN_topic/
+        ├── code/                   small Python tools I write for the topic
         ├── notes.md                concept notes
         ├── practice_questions.md   every question for this topic (questions only)
         ├── quiz/                   my answers to the lesson quizzes, one file per lesson
@@ -29,6 +30,7 @@ math/
 
 - `practice_questions.md` is the question list; everything else in the folder is my answers.
 - Folders are numbered within each area, zero-padded so they sort correctly.
+- Lessons split into parts use a letter suffix (`lesson_2a.md`, `lesson_2b.md`).
 - All folder and file names use snake_case.
 - Quiz answers keep my first attempts next to the cleaned-up versions, so the learning shows.
 
