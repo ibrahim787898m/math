@@ -6,7 +6,7 @@ The math behind computer science, studied step by step alongside my [DSA roadmap
 
 | Step | Topic                           | Folder                                                         | Status      |
 | ---- | ------------------------------- | -------------------------------------------------------------- | ----------- |
-| 10.5 | Discrete math: logic & proofs   | [`01_logic_and_proofs`](discrete_math/01_logic_and_proofs)     | In progress |
+| 10.5 | Discrete math: logic & proofs   | [`01_logic_and_proofs`](discrete_math/01_logic_and_proofs)     | Done        |
 | 10.6 | Discrete math: sets & functions | [`02_sets_and_functions`](discrete_math/02_sets_and_functions) | Not started |
 
 Step numbers match my DSA roadmap, so these topics sit between linked lists (step 10) and reversal (step 11).
